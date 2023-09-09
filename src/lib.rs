@@ -1,4 +1,5 @@
-// Based on:
+// Based on: https://github.com/rust-mobile/rust-android-examples/blob/95c47f206fd5063365ca6fdba5568b7663752fb5/na-mainloop/src/lib.rs
+
 use core::mem::MaybeUninit;
 
 use android_activity::{AndroidApp, InputStatus, MainEvent, PollEvent};
