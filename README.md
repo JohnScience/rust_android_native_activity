@@ -10,7 +10,7 @@ Source of inspiration: <https://github.com/rust-mobile/rust-android-examples/blo
 cargo apk r
 ```
 
-Requires [cargo-apk](https://github.com/rust-mobile/cargo-apk).
+Requires [cargo-apk](https://github.com/rust-mobile/cargo-apk/tree/main/cargo-apk).
 
 Also see:
 
